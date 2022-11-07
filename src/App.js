@@ -1,7 +1,6 @@
 import React from 'react'
 import {Routes, Route } from 'react-router-dom'
 import Home from './Home/Home'
-
 import Error from './Error'
 import "./App.css"
 
